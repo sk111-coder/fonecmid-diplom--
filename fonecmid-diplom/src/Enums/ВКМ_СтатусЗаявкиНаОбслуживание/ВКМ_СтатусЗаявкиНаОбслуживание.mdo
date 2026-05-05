@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="07ec2f59-07fb-4aec-8969-882b87d15c15">
+  <producedTypes>
+    <refType typeId="614671e8-fb75-413b-a589-3203f3ca38a0" valueTypeId="5a99097a-14a4-4143-9f9b-50c8ba3d1abe"/>
+    <listType typeId="ebac2268-7ba4-4ae4-908b-9b2b920548d4" valueTypeId="e8cc8a7b-78a4-40cf-9cc1-d26330918c6f"/>
+    <managerType typeId="e40889c5-f13e-4b8b-963e-714446a25b06" valueTypeId="86cf6330-c192-4af4-85dd-b72f00d14007"/>
+  </producedTypes>
+  <name>ВКМ_СтатусЗаявкиНаОбслуживание</name>
+  <synonym>
+    <key>ru</key>
+    <value>ВКМ статус заявки на обслуживание</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="5522eeed-7b0c-4f25-b2c9-e6f91cd9bbad">
+    <name>ОжидаетсяВыполнениеРабот</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ожидается выполнение работ</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="d2eeeab0-5f68-44ee-aaf5-3218b2ec7b3d">
+    <name>ЗаявкаВыполнена</name>
+    <synonym>
+      <key>ru</key>
+      <value>Заявка выполнена</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
