@@ -200,6 +200,7 @@
       <types>String</types>
       <stringQualifiers/>
     </type>
+    <multiLine>true</multiLine>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fillValue xsi:type="core:StringValue">
@@ -410,4 +411,11 @@
       <fullTextSearch>Use</fullTextSearch>
     </attributes>
   </tabularSections>
+  <templates uuid="fb217bcb-99fb-402e-9522-2a4c3668935f">
+    <name>ПФ_MXL_АктОказанныхУслуг</name>
+    <synonym>
+      <key>ru</key>
+      <value>Акт оказанных услуг</value>
+    </synonym>
+  </templates>
 </mdclass:Document>

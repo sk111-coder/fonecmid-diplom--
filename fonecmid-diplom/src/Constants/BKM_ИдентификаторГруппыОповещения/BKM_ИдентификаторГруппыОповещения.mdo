@@ -8,7 +8,7 @@
   <name>BKM_ИдентификаторГруппыОповещения</name>
   <synonym>
     <key>ru</key>
-    <value>BKM идентификатор группы оповещения</value>
+    <value>Идентификатор группы оповещения</value>
   </synonym>
   <type>
     <types>String</types>

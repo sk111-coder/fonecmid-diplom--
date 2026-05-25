@@ -8,7 +8,7 @@
   <name>ВКМ_ТокенУправленияТБотом</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ токен управления т ботом</value>
+    <value>Токен управления т ботом</value>
   </synonym>
   <type>
     <types>String</types>
