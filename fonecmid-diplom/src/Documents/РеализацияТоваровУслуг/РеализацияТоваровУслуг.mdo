@@ -412,7 +412,7 @@
     </attributes>
   </tabularSections>
   <templates uuid="fb217bcb-99fb-402e-9522-2a4c3668935f">
-    <name>ПФ_MXL_АктОказанныхУслуг</name>
+    <name>ПФ_MXL_ВКМ_АктОказанныхУслуг</name>
     <synonym>
       <key>ru</key>
       <value>Акт оказанных услуг</value>

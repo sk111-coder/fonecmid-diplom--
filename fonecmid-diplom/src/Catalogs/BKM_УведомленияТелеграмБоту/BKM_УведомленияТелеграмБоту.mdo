@@ -10,7 +10,7 @@
   <name>BKM_УведомленияТелеграмБоту</name>
   <synonym>
     <key>ru</key>
-    <value>BKM уведомления телеграм боту</value>
+    <value>Уведомления телеграм боту</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.BKM_УведомленияТелеграмБоту.StandardAttribute.Code</inputByString>
