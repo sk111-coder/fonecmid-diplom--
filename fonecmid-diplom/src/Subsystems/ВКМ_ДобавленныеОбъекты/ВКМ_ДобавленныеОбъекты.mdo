@@ -10,10 +10,12 @@
   <content>Constant.ВКМ_ТокенУправленияТБотом</content>
   <content>Catalog.ВКМ_Сотрудники</content>
   <content>Catalog.ДоговорыКонтрагентов</content>
-  <content>Document.ВКМ_ОбслуживаниеКлиента</content>
+  <content>Document.BKM_ОбслуживаниеКлиентов</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
   <content>Constant.BKM_ИдентификаторГруппыОповещения</content>
   <content>Catalog.BKM_УведомленияТелеграмБоту</content>
   <content>ScheduledJob.BKM_ОтправкаСообщенийВТелеграм</content>
+  <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
+  <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
 </mdclass:Subsystem>
