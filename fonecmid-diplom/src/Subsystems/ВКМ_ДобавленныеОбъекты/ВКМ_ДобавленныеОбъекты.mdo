@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e9a004b8-6649-4e99-826a-146841cd59b1">
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e9a004b8-6649-4e99-826a-146841cd59b1">
   <name>ВКМ_ДобавленныеОбъекты</name>
   <synonym>
     <key>ru</key>
@@ -7,15 +7,23 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.ИконкаНетология</picture>
+  </picture>
   <content>Constant.ВКМ_ТокенУправленияТБотом</content>
   <content>Catalog.ВКМ_Сотрудники</content>
   <content>Catalog.ДоговорыКонтрагентов</content>
-  <content>Document.BKM_ОбслуживаниеКлиентов</content>
+  <content>Document.ВКМ_ОбслуживаниеКлиентов</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
   <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
-  <content>Constant.BKM_ИдентификаторГруппыОповещения</content>
-  <content>Catalog.BKM_УведомленияТелеграмБоту</content>
-  <content>ScheduledJob.BKM_ОтправкаСообщенийВТелеграм</content>
+  <content>Constant.ВКМ_ИдентификаторГруппыОповещения</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>ScheduledJob.ВКМ_ОтправкаСообщенийВТелеграм</content>
   <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
   <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
+  <content>CommonModule.ВКМ_ДоработкаДокументаРеализацияТоваровИУслугСервер</content>
+  <content>CommonModule.ВКМ_Телеграмм</content>
+  <content>Catalog.ВКМ_ОбслуживаниеКлиентовПрисоединенныеФайлы</content>
+  <content>Enum.ВКМ_СтатусЗаявкиНаОбслуживание</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
 </mdclass:Subsystem>

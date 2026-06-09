@@ -895,7 +895,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>DocumentObject.BKM_ОбслуживаниеКлиентов</types>
+      <types>DocumentObject.ВКМ_ОбслуживаниеКлиентов</types>
     </valueType>
     <view>
       <common>true</common>

@@ -49,6 +49,7 @@
     <items xsi:type="form:FormField">
       <name>ЕстьФайлы</name>
       <id>56</id>
+      <displayImportance>High</displayImportance>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -83,6 +84,9 @@
         <autoMaxHeight>true</autoMaxHeight>
         <horizontalStretch>true</horizontalStretch>
         <verticalStretch>true</verticalStretch>
+        <valuesPicture xsi:type="core:PictureRef">
+          <picture>CommonPicture.Скрепка</picture>
+        </valuesPicture>
         <border xsi:type="core:BorderDef">
           <style>Single</style>
           <width>1</width>
@@ -634,10 +638,10 @@
 	КОНЕЦ КАК ЕстьФайлы,
 	ДокументBKM_ОбслуживаниеКлиентов.СтатусЗаявки КАК СтатусЗаявки
 ИЗ
-	Документ.BKM_ОбслуживаниеКлиентов КАК ДокументBKM_ОбслуживаниеКлиентов
+	Документ.ВКМ_ОбслуживаниеКлиентов КАК ДокументBKM_ОбслуживаниеКлиентов
 		ЛЕВОЕ СОЕДИНЕНИЕ РегистрСведений.НаличиеФайлов КАК НаличиеФайлов
 		ПО ДокументBKM_ОбслуживаниеКлиентов.Ссылка = НаличиеФайлов.ОбъектСФайлами</queryText>
-      <mainTable>Document.BKM_ОбслуживаниеКлиентов</mainTable>
+      <mainTable>Document.ВКМ_ОбслуживаниеКлиентов</mainTable>
       <dynamicDataRead>true</dynamicDataRead>
       <autoFillAvailableFields>true</autoFillAvailableFields>
       <customQuery>true</customQuery>

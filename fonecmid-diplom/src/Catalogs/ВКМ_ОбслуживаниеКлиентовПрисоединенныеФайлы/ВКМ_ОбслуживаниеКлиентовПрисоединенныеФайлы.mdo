@@ -7,12 +7,12 @@
     <listType typeId="588d43e1-d5ad-4d31-8487-68faffec688e" valueTypeId="a68338b9-ea26-40f7-83cf-3184b1b8f65a"/>
     <managerType typeId="171d148c-3013-4a7e-9ec5-5c45bc4f5ee8" valueTypeId="9c57f191-967f-41fd-8698-5d38ef0f10ff"/>
   </producedTypes>
-  <name>BKM_ОбслуживаниеКлиентовПрисоединенныеФайлы</name>
+  <name>ВКМ_ОбслуживаниеКлиентовПрисоединенныеФайлы</name>
   <synonym>
     <key>ru</key>
     <value>Присоединенные файлы (ОбслуживаниеКлиентов)</value>
   </synonym>
-  <inputByString>Catalog.BKM_ОбслуживаниеКлиентовПрисоединенныеФайлы.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.ВКМ_ОбслуживаниеКлиентовПрисоединенныеФайлы.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
@@ -149,7 +149,7 @@
       <value>Размещение</value>
     </synonym>
     <type>
-      <types>DocumentRef.BKM_ОбслуживаниеКлиентов</types>
+      <types>DocumentRef.ВКМ_ОбслуживаниеКлиентов</types>
     </type>
     <toolTip>
       <key>ru</key>

@@ -7,13 +7,13 @@
     <listType typeId="454739a8-32b7-4543-8296-25428a0194df" valueTypeId="a70b3064-872e-43af-a105-4059b848edf8"/>
     <managerType typeId="fed99118-41e2-45d7-90db-785775c4d213" valueTypeId="574fbc0b-ee41-490b-a42e-fde1a862d3fa"/>
   </producedTypes>
-  <name>BKM_ОбслуживаниеКлиентов</name>
+  <name>ВКМ_ОбслуживаниеКлиентов</name>
   <synonym>
     <key>ru</key>
     <value>Обслуживание клиентов</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Document.BKM_ОбслуживаниеКлиентов.StandardAttribute.Number</inputByString>
+  <inputByString>Document.ВКМ_ОбслуживаниеКлиентов.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
@@ -23,8 +23,8 @@
   <numberAllowedLength>Variable</numberAllowedLength>
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
-  <defaultObjectForm>Document.BKM_ОбслуживаниеКлиентов.Form.ФормаДокумента</defaultObjectForm>
-  <defaultListForm>Document.BKM_ОбслуживаниеКлиентов.Form.ФормаСписка</defaultListForm>
+  <defaultObjectForm>Document.ВКМ_ОбслуживаниеКлиентов.Form.ФормаДокумента</defaultObjectForm>
+  <defaultListForm>Document.ВКМ_ОбслуживаниеКлиентов.Form.ФормаСписка</defaultListForm>
   <registerRecords>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</registerRecords>
   <registerRecords>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
