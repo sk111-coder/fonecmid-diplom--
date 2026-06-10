@@ -55,6 +55,7 @@
   <subsystems>Subsystem.СтандартныеПодсистемы</subsystems>
   <subsystems>Subsystem.ВКМ_ОбслуживаниеКлиентов</subsystems>
   <subsystems>Subsystem.ВКМ_ДобавленныеОбъекты</subsystems>
+  <subsystems>Subsystem.ВКМ_РасчетЗарплаты</subsystems>
   <styleItems>StyleItem.ВажнаяНадписьШрифт</styleItems>
   <styleItems>StyleItem.ВладелецФайловШрифт</styleItems>
   <styleItems>StyleItem.ВычисленноеПравоДоступаЦвет</styleItems>
@@ -1231,12 +1232,15 @@
   <catalogs>Catalog.ВКМ_Сотрудники</catalogs>
   <catalogs>Catalog.ВКМ_УведомленияТелеграмБоту</catalogs>
   <catalogs>Catalog.ВКМ_ОбслуживаниеКлиентовПрисоединенныеФайлы</catalogs>
+  <catalogs>Catalog.ВКМ_ГрафикиРабот</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>
   <documents>Document.ПоступлениеТоваровУслуг</documents>
   <documents>Document.РеализацияТоваровУслуг</documents>
   <documents>Document.ВКМ_ОбслуживаниеКлиентов</documents>
+  <documents>Document.ВКМ_НачислениеЗаработнойПлаты</documents>
+  <documents>Document.ВКМ_НачислениеФиксированныхПремий</documents>
   <documentJournals>DocumentJournal.Деньги</documentJournals>
   <enums>Enum.ВариантыОтображенияМеток</enums>
   <enums>Enum.ВариантыОчисткиФайлов</enums>
@@ -1393,6 +1397,8 @@
   <informationRegisters>InformationRegister.УдаляемыеОбъекты</informationRegisters>
   <informationRegisters>InformationRegister.ФайлыВРабочемКаталоге</informationRegisters>
   <informationRegisters>InformationRegister.ФиксацияОбработкиДанныхОбработчиками</informationRegisters>
+  <informationRegisters>InformationRegister.ВКМ_УсловияОплатыСотрудников</informationRegisters>
+  <informationRegisters>InformationRegister.ВКМ_ГрафикиРабот</informationRegisters>
   <accumulationRegisters>AccumulationRegister.ЗадолженностьПокупателей</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ЗадолженностьПоставщикам</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.Затраты</accumulationRegisters>
@@ -1402,4 +1408,10 @@
   <accumulationRegisters>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</accumulationRegisters>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ДополнительныеРеквизитыИСведения</chartsOfCharacteristicTypes>
+  <chartsOfCalculationTypes>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</chartsOfCalculationTypes>
+  <chartsOfCalculationTypes>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</chartsOfCalculationTypes>
+  <chartsOfCalculationTypes>ChartOfCalculationTypes.ВКМ_Удержания</chartsOfCalculationTypes>
+  <calculationRegisters>CalculationRegister.ВКМ_ОсновныеНачисления</calculationRegisters>
+  <calculationRegisters>CalculationRegister.ВКМ_ДополнительныеНачисления</calculationRegisters>
+  <calculationRegisters>CalculationRegister.ВКМ_Удержания</calculationRegisters>
 </mdclass:Configuration>
