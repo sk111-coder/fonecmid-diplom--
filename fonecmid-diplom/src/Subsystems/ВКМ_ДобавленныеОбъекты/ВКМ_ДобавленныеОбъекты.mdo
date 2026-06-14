@@ -34,4 +34,5 @@
   <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
   <content>Catalog.ВКМ_ГрафикиРабот</content>
   <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
+  <content>Document.ВКМ_ГрафикОтпусков</content>
 </mdclass:Subsystem>
