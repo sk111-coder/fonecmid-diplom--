@@ -1127,6 +1127,7 @@
   <constants>Constant.ВКМ_НоменклатураРаботыСпециалиста</constants>
   <constants>Constant.ВКМ_ТокенУправленияТБотом</constants>
   <constants>Constant.ВКМ_ИдентификаторГруппыОповещения</constants>
+  <constants>Constant.ВКМ_ГрафикОтпуска</constants>
   <commonForms>CommonForm.БлокировкаРаботыСВнешнимиРесурсами</commonForms>
   <commonForms>CommonForm.ВводЗначенийСпискомСФлажками</commonForms>
   <commonForms>CommonForm.Вопрос</commonForms>
@@ -1401,6 +1402,7 @@
   <informationRegisters>InformationRegister.ФиксацияОбработкиДанныхОбработчиками</informationRegisters>
   <informationRegisters>InformationRegister.ВКМ_УсловияОплатыСотрудников</informationRegisters>
   <informationRegisters>InformationRegister.ВКМ_ГрафикиРабот</informationRegisters>
+  <informationRegisters>InformationRegister.ВКМ_СведенияОбОтпусках</informationRegisters>
   <accumulationRegisters>AccumulationRegister.ЗадолженностьПокупателей</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.ЗадолженностьПоставщикам</accumulationRegisters>
   <accumulationRegisters>AccumulationRegister.Затраты</accumulationRegisters>

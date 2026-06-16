@@ -16,4 +16,7 @@
   <content>Catalog.ВКМ_ГрафикиРабот</content>
   <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
   <content>Document.ВКМ_ГрафикОтпусков</content>
+  <content>InformationRegister.ВКМ_СведенияОбОтпусках</content>
+  <content>Document.ВКМ_ВыплатаЗарплаты</content>
+  <content>Constant.ВКМ_ГрафикОтпуска</content>
 </mdclass:Subsystem>
