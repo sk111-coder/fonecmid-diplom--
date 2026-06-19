@@ -27,4 +27,5 @@
   <content>CommonModule.ВКМ_ДоработкаДокументаРеализацияТоваровИУслугСервер</content>
   <content>CommonModule.ВКМ_Телеграмм</content>
   <content>ScheduledJob.ВКМ_ОтправкаСообщенийВТелеграм</content>
+  <content>Catalog.ВКМ_Подразделения</content>
 </mdclass:Subsystem>

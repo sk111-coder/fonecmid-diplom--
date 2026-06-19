@@ -19,4 +19,6 @@
   <content>InformationRegister.ВКМ_СведенияОбОтпусках</content>
   <content>Document.ВКМ_ВыплатаЗарплаты</content>
   <content>Constant.ВКМ_ГрафикОтпуска</content>
+  <content>Catalog.ВКМ_Подразделения</content>
+  <content>DataProcessor.ВКМ_ЗаполнениеГрафикаРабот</content>
 </mdclass:Subsystem>

@@ -629,6 +629,11 @@
   <roles>Role.ВКМ_ДобавлениеИзменениеДокументаОбслуживаниеКлиентов</roles>
   <roles>Role.ВКМ_ДобавлениеИзменениеДокументаРеализацииТоваровУслуг</roles>
   <roles>Role.ВКМ_ИспользованиеОбработкиМассовоеСозданиеАктов</roles>
+  <roles>Role.ВКМ_ДобавлениеИзменениеДокументаНачислениеЗаработнойПлаты</roles>
+  <roles>Role.ВКМ_ИспользованиеОбработкиЗаполнениеГрафикаРаботы</roles>
+  <roles>Role.ВКМ_ДобавлениеИзменениеДокументаНачисленияФиксированнойПремии</roles>
+  <roles>Role.ВКМ_ДобавлениеИзменениеДокументаВыплатаЗарплаты</roles>
+  <roles>Role.ВКМ_ДобавлениеИзменениеДокументаГрафикОтпусков</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияКакВыполнитьНастройкуМакетаOfficeOpen</commonTemplates>
@@ -1234,6 +1239,7 @@
   <catalogs>Catalog.ВКМ_УведомленияТелеграмБоту</catalogs>
   <catalogs>Catalog.ВКМ_ОбслуживаниеКлиентовПрисоединенныеФайлы</catalogs>
   <catalogs>Catalog.ВКМ_ГрафикиРабот</catalogs>
+  <catalogs>Catalog.ВКМ_Подразделения</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>
@@ -1332,6 +1338,7 @@
   <dataProcessors>DataProcessor.УдалениеПомеченныхОбъектов</dataProcessors>
   <dataProcessors>DataProcessor.УправлениеИтогамиИАгрегатами</dataProcessors>
   <dataProcessors>DataProcessor.ВКМ_МассовоеСозданиеАктов</dataProcessors>
+  <dataProcessors>DataProcessor.ВКМ_ЗаполнениеГрафикаРабот</dataProcessors>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанных</informationRegisters>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанныхОбластейДанных</informationRegisters>
   <informationRegisters>InformationRegister.ВерсииПодсистем</informationRegisters>
