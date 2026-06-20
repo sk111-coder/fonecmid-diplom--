@@ -28,4 +28,5 @@
   <content>CommonModule.ВКМ_Телеграмм</content>
   <content>ScheduledJob.ВКМ_ОтправкаСообщенийВТелеграм</content>
   <content>Catalog.ВКМ_Подразделения</content>
+  <content>Catalog.Контрагенты</content>
 </mdclass:Subsystem>

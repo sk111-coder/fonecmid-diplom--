@@ -16,38 +16,42 @@
   </commandsVisibility>
   <commandsPlacement>
     <placementFragments>
-      <group>CommandGroup.ВКМ_РегистрыИКонстанты</group>
-      <commands>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы.StandardCommand.OpenList</commands>
-      <commands>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы.StandardCommand.OpenList</commands>
-    </placementFragments>
-    <placementFragments>
       <group>CommandGroup.ВКМ_Справочники</group>
       <commands>Catalog.ВКМ_Сотрудники.StandardCommand.OpenList</commands>
       <commands>Catalog.ВКМ_УведомленияТелеграмБоту.StandardCommand.OpenList</commands>
       <commands>Catalog.ДоговорыКонтрагентов.StandardCommand.OpenList</commands>
+      <commands>Catalog.ВКМ_Подразделения.StandardCommand.OpenList</commands>
+      <commands>Catalog.Контрагенты.StandardCommand.OpenList</commands>
     </placementFragments>
     <placementFragments>
       <group>CommandGroup.ВКМ_Документы</group>
       <commands>Document.ВКМ_ОбслуживаниеКлиентов.StandardCommand.OpenList</commands>
       <commands>Document.РеализацияТоваровУслуг.StandardCommand.OpenList</commands>
+    </placementFragments>
+    <placementFragments>
+      <group>CommandGroup.ВКМ_РегистрыНакоплений</group>
+      <commands>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы.StandardCommand.OpenList</commands>
+      <commands>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы.StandardCommand.OpenList</commands>
     </placementFragments>
   </commandsPlacement>
   <commandsOrder>
     <orderFragments>
-      <group>CommandGroup.ВКМ_РегистрыИКонстанты</group>
-      <commands>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы.StandardCommand.OpenList</commands>
-      <commands>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы.StandardCommand.OpenList</commands>
-    </orderFragments>
-    <orderFragments>
       <group>CommandGroup.ВКМ_Справочники</group>
       <commands>Catalog.ВКМ_Сотрудники.StandardCommand.OpenList</commands>
       <commands>Catalog.ВКМ_УведомленияТелеграмБоту.StandardCommand.OpenList</commands>
       <commands>Catalog.ДоговорыКонтрагентов.StandardCommand.OpenList</commands>
+      <commands>Catalog.ВКМ_Подразделения.StandardCommand.OpenList</commands>
+      <commands>Catalog.Контрагенты.StandardCommand.OpenList</commands>
     </orderFragments>
     <orderFragments>
       <group>CommandGroup.ВКМ_Документы</group>
       <commands>Document.ВКМ_ОбслуживаниеКлиентов.StandardCommand.OpenList</commands>
       <commands>Document.РеализацияТоваровУслуг.StandardCommand.OpenList</commands>
+    </orderFragments>
+    <orderFragments>
+      <group>CommandGroup.ВКМ_РегистрыНакоплений</group>
+      <commands>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы.StandardCommand.OpenList</commands>
+      <commands>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы.StandardCommand.OpenList</commands>
     </orderFragments>
   </commandsOrder>
 </cmi:CommandInterface>

@@ -1059,9 +1059,12 @@
   <commandGroups>CommandGroup.Информация</commandGroups>
   <commandGroups>CommandGroup.Органайзер</commandGroups>
   <commandGroups>CommandGroup.Печать</commandGroups>
-  <commandGroups>CommandGroup.ВКМ_РегистрыИКонстанты</commandGroups>
+  <commandGroups>CommandGroup.ВКМ_РегистрыСведений</commandGroups>
   <commandGroups>CommandGroup.ВКМ_Справочники</commandGroups>
   <commandGroups>CommandGroup.ВКМ_Документы</commandGroups>
+  <commandGroups>CommandGroup.ВКМ_РегистрыНакоплений</commandGroups>
+  <commandGroups>CommandGroup.ВКМ_Обработки</commandGroups>
+  <commandGroups>CommandGroup.ВКМ_РегистрыРассчета</commandGroups>
   <constants>Constant.АвтоматическиНастраиватьРазрешенияВПрофиляхБезопасности</constants>
   <constants>Constant.АдресПубликацииИнформационнойБазыВИнтернете</constants>
   <constants>Constant.ГлавныйУзел</constants>
