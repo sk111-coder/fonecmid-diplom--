@@ -41,6 +41,7 @@
       <group>CommandGroup.ВКМ_РегистрыСведений</group>
       <commands>InformationRegister.ВКМ_СведенияОбОтпусках.StandardCommand.OpenList</commands>
       <commands>InformationRegister.ВКМ_УсловияОплатыСотрудников.StandardCommand.OpenList</commands>
+      <commands>InformationRegister.ВКМ_ГрафикиРабот.StandardCommand.OpenList</commands>
     </placementFragments>
     <placementFragments>
       <group>CommandGroup.ВКМ_РегистрыРассчета</group>
@@ -76,6 +77,7 @@
       <group>CommandGroup.ВКМ_РегистрыСведений</group>
       <commands>InformationRegister.ВКМ_СведенияОбОтпусках.StandardCommand.OpenList</commands>
       <commands>InformationRegister.ВКМ_УсловияОплатыСотрудников.StandardCommand.OpenList</commands>
+      <commands>InformationRegister.ВКМ_ГрафикиРабот.StandardCommand.OpenList</commands>
     </orderFragments>
     <orderFragments>
       <group>CommandGroup.ВКМ_РегистрыРассчета</group>

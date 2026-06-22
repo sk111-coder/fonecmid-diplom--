@@ -40,4 +40,5 @@
   <content>Constant.ВКМ_ГрафикОтпуска</content>
   <content>Catalog.ВКМ_Подразделения</content>
   <content>DataProcessor.ВКМ_ЗаполнениеГрафикаРабот</content>
+  <content>InformationRegister.ВКМ_ГрафикиРабот</content>
 </mdclass:Subsystem>
