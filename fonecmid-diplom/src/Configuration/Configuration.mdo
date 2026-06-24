@@ -634,6 +634,7 @@
   <roles>Role.ВКМ_ДобавлениеИзменениеДокументаНачисленияФиксированнойПремии</roles>
   <roles>Role.ВКМ_ДобавлениеИзменениеДокументаВыплатаЗарплаты</roles>
   <roles>Role.ВКМ_ДобавлениеИзменениеДокументаГрафикОтпусков</roles>
+  <roles>Role.ВКМ_ИспользованиеОтчётаВыработкаСпециалистов</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияКакВыполнитьНастройкуМакетаOfficeOpen</commonTemplates>
@@ -1315,6 +1316,7 @@
   <reports>Report.ПрогрессОтложенногоОбновления</reports>
   <reports>Report.СведенияОПользователях</reports>
   <reports>Report.УниверсальныйОтчет</reports>
+  <reports>Report.ВКМ_ВыработкаСпециалистов</reports>
   <dataProcessors>DataProcessor.АвтоматическоеИзвлечениеТекстов</dataProcessors>
   <dataProcessors>DataProcessor.ВводКонтактнойИнформации</dataProcessors>
   <dataProcessors>DataProcessor.ГрупповоеИзменениеРеквизитов</dataProcessors>

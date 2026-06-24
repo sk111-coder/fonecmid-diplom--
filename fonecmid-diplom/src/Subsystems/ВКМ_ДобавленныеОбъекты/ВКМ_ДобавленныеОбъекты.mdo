@@ -41,4 +41,5 @@
   <content>Catalog.ВКМ_Подразделения</content>
   <content>DataProcessor.ВКМ_ЗаполнениеГрафикаРабот</content>
   <content>InformationRegister.ВКМ_ГрафикиРабот</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
 </mdclass:Subsystem>

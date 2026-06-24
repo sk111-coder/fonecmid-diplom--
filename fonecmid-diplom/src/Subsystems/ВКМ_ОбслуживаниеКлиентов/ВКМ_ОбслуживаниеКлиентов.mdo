@@ -29,4 +29,5 @@
   <content>ScheduledJob.ВКМ_ОтправкаСообщенийВТелеграм</content>
   <content>Catalog.ВКМ_Подразделения</content>
   <content>Catalog.Контрагенты</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
 </mdclass:Subsystem>
