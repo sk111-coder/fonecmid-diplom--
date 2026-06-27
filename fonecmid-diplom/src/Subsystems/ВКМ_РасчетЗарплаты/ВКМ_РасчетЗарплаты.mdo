@@ -27,4 +27,5 @@
   <content>Catalog.ВКМ_Сотрудники</content>
   <content>InformationRegister.ВКМ_ГрафикиРабот</content>
   <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
 </mdclass:Subsystem>

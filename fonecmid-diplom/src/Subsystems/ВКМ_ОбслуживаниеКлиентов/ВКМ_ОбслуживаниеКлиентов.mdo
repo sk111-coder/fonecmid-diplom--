@@ -30,4 +30,5 @@
   <content>Catalog.ВКМ_Подразделения</content>
   <content>Catalog.Контрагенты</content>
   <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
 </mdclass:Subsystem>
