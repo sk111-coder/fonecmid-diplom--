@@ -300,10 +300,6 @@
 			<value>true</value>
 		</right>
 		<right>
-			<name>WebClient</name>
-			<value>true</value>
-		</right>
-		<right>
 			<name>ThickClient</name>
 			<value>true</value>
 		</right>
