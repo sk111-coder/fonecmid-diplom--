@@ -8,7 +8,7 @@
   <name>ВКМ_СтатусЗаявкиНаОбслуживание</name>
   <synonym>
     <key>ru</key>
-    <value>ВКМ статус заявки на обслуживание</value>
+    <value>Статус заявки на обслуживание</value>
   </synonym>
   <quickChoice>true</quickChoice>
   <choiceMode>BothWays</choiceMode>
