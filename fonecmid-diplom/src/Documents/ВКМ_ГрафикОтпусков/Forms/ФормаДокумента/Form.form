@@ -607,7 +607,9 @@
     <navigationPanel>
       <cmiFragmentRecord>
         <command>InformationRegister.ВКМ_СведенияОбОтпусках.StandardCommand.OpenByRecorder</command>
-        <userVisible/>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
       </cmiFragmentRecord>
     </navigationPanel>
     <commandBar/>
