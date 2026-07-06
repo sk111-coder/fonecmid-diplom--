@@ -10,10 +10,12 @@
     <value>Связанные документы</value>
   </synonym>
   <type>
+    <types>DocumentRef.ВКМ_ОбслуживаниеКлиентов</types>
     <types>DocumentRef.ЗаказПокупателя</types>
     <types>DocumentRef.РеализацияТоваровУслуг</types>
     <types>DocumentRef.ОплатаОтПокупателя</types>
   </type>
   <content>Document.РеализацияТоваровУслуг.Attribute.Основание</content>
   <content>Document.ОплатаОтПокупателя.Attribute.Основание</content>
+  <content>Document.ВКМ_ОбслуживаниеКлиентов.Attribute.Основание</content>
 </mdclass:FilterCriterion>
