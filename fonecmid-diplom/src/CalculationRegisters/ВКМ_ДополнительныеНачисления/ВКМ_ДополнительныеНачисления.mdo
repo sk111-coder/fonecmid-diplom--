@@ -53,6 +53,24 @@
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
   </resources>
+  <attributes uuid="b98a781a-27b2-4545-82fc-a8dfce9a469b">
+    <name>ПроцентПремии</name>
+    <synonym>
+      <key>ru</key>
+      <value>Процент премии</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+        <scale>2</scale>
+        <nonNegative>true</nonNegative>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </attributes>
   <dimensions uuid="5847853b-0130-4402-a8fb-237f43914ebe">
     <name>Сотрудник</name>
     <synonym>
