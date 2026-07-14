@@ -42,19 +42,19 @@
         </userVisible>
         <titleLocation>None</titleLocation>
         <items xsi:type="form:FormField">
-          <name>ДиаграммаТаблицаТекст</name>
-          <id>20</id>
+          <name>ДиаграммаТаблицаТочка</name>
+          <id>17</id>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
             <common>true</common>
           </userVisible>
           <dataPath xsi:type="form:DataPath">
-            <segments>Диаграмма.Text</segments>
+            <segments>Диаграмма.Point</segments>
           </dataPath>
           <extendedTooltip>
-            <name>ДиаграммаТаблицаТекстРасширеннаяПодсказка</name>
-            <id>22</id>
+            <name>ДиаграммаТаблицаТочкаРасширеннаяПодсказка</name>
+            <id>19</id>
             <type>Label</type>
             <autoMaxWidth>true</autoMaxWidth>
             <autoMaxHeight>true</autoMaxHeight>
@@ -63,8 +63,8 @@
             </extInfo>
           </extendedTooltip>
           <contextMenu>
-            <name>ДиаграммаТаблицаТекстКонтекстноеМеню</name>
-            <id>21</id>
+            <name>ДиаграммаТаблицаТочкаКонтекстноеМеню</name>
+            <id>18</id>
             <autoFill>true</autoFill>
           </contextMenu>
           <type>InputField</type>
