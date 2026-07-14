@@ -10,9 +10,6 @@
     <key>ru</key>
     <value>Номенклатура работы специалиста</value>
   </synonym>
-  <type>
-    <types>CatalogRef.Номенклатура</types>
-  </type>
   <useStandardCommands>true</useStandardCommands>
   <minValue xsi:type="core:UndefinedValue"/>
   <maxValue xsi:type="core:UndefinedValue"/>
