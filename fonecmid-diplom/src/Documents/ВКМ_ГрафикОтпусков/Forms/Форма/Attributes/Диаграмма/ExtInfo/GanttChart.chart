@@ -109,10 +109,10 @@
     <legendIsInit>true</legendIsInit>
     <chartIsInit>true</chartIsInit>
     <elementsChart>
-      <left>0</left>
-      <right>0.167199999999999987521093203</right>
-      <top>0</top>
-      <bottom>0</bottom>
+      <left>-0.000958772770853307714292169</left>
+      <right>0.167785234899328838942267339</right>
+      <top>-0.000958772770853307714292169</top>
+      <bottom>-0.008196721311475307913951838</bottom>
     </elementsChart>
     <elementsLegend>
       <left>0.832799999999999984723331181</left>
@@ -250,7 +250,7 @@
   <drawEmpty>true</drawEmpty>
   <timeScale>
     <levels>
-      <measure>Day</measure>
+      <measure>Month</measure>
       <interval>1</interval>
       <show>true</show>
       <line>
@@ -263,6 +263,10 @@
         <blue>192</blue>
       </scaleColor>
       <dayFormatRule>MonthDayWeekDay</dayFormatRule>
+      <format>
+        <key>ru</key>
+        <value>ДФ='ММММ гггг'</value>
+      </format>
       <labels/>
       <showPereodicalLabels>true</showPereodicalLabels>
     </levels>
